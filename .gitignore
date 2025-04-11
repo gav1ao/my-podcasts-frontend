@@ -1,0 +1,14 @@
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.lock
+*.cache
+*.tmp
